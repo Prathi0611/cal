@@ -361,3 +361,142 @@ If you want next:
 👉 Viva Q&A
 
 Just tell me 😎✨
+
+Got you Aaradhya 💖🔥 — here is FULL GIT VERSION CONTROL CODE (clean + exam ready)
+
+
+---
+
+🟢 1. INITIALIZE REPOSITORY
+
+git init
+
+
+---
+
+🟢 2. ADD FILES
+
+git add .
+
+
+---
+
+🟢 3. COMMIT CHANGES
+
+git commit -m "Initial commit"
+
+
+---
+
+🟢 4. CREATE BRANCHES (v1, v2, v3)
+
+git branch v1
+git branch v2
+git branch v3
+
+
+---
+
+🟢 5. SWITCH BRANCH
+
+git checkout v1
+
+
+---
+
+🟢 6. MAKE CHANGES & COMMIT (EXAMPLE)
+
+git add .
+git commit -m "Version 1 - Add Data"
+
+
+---
+
+🟢 7. SWITCH TO v2
+
+git checkout v2
+git add .
+git commit -m "Version 2 - View Data"
+
+
+---
+
+🟢 8. SWITCH TO v3
+
+git checkout v3
+git add .
+git commit -m "Version 3 - Chart"
+
+
+---
+
+🟢 9. CONNECT TO GITHUB
+
+git remote add origin https://github.com/YOUR_USERNAME/analytics-app.git
+
+
+---
+
+🟢 10. PUSH TO GITHUB
+
+git push -u origin main
+git push origin v1
+git push origin v2
+git push origin v3
+
+
+---
+
+🟢 11. CHECK STATUS
+
+git status
+
+
+---
+
+🟢 12. VIEW COMMITS
+
+git log --oneline
+
+
+---
+
+🟢 13. CLONE REPOSITORY
+
+git clone https://github.com/YOUR_USERNAME/analytics-app.git
+
+
+---
+
+🧠 VIVA ANSWER 🔥
+
+> Version control using Git helps track changes, manage multiple versions (v1, v2, v3), and collaborate efficiently.
+
+
+
+
+---
+
+🎯 YOUR PROJECT FLOW
+
+v1 → Add Data
+v2 → View Data
+v3 → Chart
+
+
+---
+
+💖 DONE
+
+✔ Branches created
+✔ Versions managed
+✔ Code pushed
+
+
+---
+
+If you want: 👉 Git viva questions
+👉 Commands explanation
+👉 Diagram
+
+Just tell me 😎✨
